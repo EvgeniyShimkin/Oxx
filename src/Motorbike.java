@@ -2,7 +2,9 @@ public class Motorbike {
     private int year;
     private String model;
     private String color;
-    private String name;
+
+
+
 
     public Motorbike(int year, String model, String color) {
         this.year = year;
