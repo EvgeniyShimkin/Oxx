@@ -6,5 +6,6 @@ public class Main {
         System.out.println(motorbike.getModel() + "\n" +
                 motorbike.getYear() + "\n" +
                 motorbike.getColor());
+
     }
 }
